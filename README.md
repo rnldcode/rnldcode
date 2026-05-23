@@ -55,4 +55,4 @@ Tenho uma sólida base técnica em gestão de projetos e ferramentas de modelage
 
 Vamos trocar ideias sobre desenvolvimento, automação ou oportunidades de colaboração, sinta-se à vontade para entrar em contacto!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-lino-ab47682a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lino-silva-ab47682a/)
