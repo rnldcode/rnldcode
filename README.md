@@ -1,4 +1,4 @@
-# Olá, eu sou o Ronaldo Lino! 👋
+# Olá, eu sou o Lino! 👋
 
 ### Desenvolvedor Junior | Especialista em Automação & Soluções Web
 
