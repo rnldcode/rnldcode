@@ -40,7 +40,7 @@ Tenho uma sólida base técnica em gestão de projetos e ferramentas de modelage
 * **Automação de Mensagens:** Scripts em Python voltados para otimização de fluxos de comunicação e envio de alertas personalizados.
 * **Aplicações Responsivas:** Desenvolvimento de interfaces interativas e dinâmicas utilizando frameworks modernos.
 * **Soluções Web (Frontend):** Criação de páginas e layouts focados em usabilidade e design responsivo.
-* *Página d perfil pessoal (Frontend):** Criação de página com layout responsivo e usabilidade.
+* **Página de perfil pessoal (Frontend):** Criação de página com layout responsivo e usabilidade.
 
 ---
 
