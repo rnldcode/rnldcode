@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Junior | Especialista em Automação & Soluções Web
 
-Sou um entusiasta da tecnologia focado em criar soluções eficientes através do código. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na UniÍtalo** e dedico-me ao desenvolvimento de aplicações modernas utilizando Python e JavaScript, com forte interesse em automação de processos, integração de sistemas (APIs) e desenvolvimento web focado na experiência do usuário.
+Sou um entusiasta da tecnologia focado em criar soluções eficientes através do código. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na Uni Ítalo** e dedico-me ao desenvolvimento de aplicações modernas utilizando Python, Angulrar e JavaScript, com forte interesse em automação de processos, integração de sistemas (APIs) e desenvolvimento web focado na experiência do usuário.
 
 Tenho uma sólida base técnica em gestão de projetos e ferramentas de modelagem (como AutoCAD e Revit), o que me deu uma visão analítica e estruturada para resolver problemas lógicos e arquitetar códigos limpos e organizados.
 
@@ -23,6 +23,7 @@ Tenho uma sólida base técnica em gestão de projetos e ferramentas de modelage
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)" />
 </p>
 
 ### 🔧 Outras Competências & Ferramentas
